@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "b76078fdb834e91b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b190f2458a2f870c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a91e3163f7a5e7b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8c13ad017b2014a",
+    "type": "split",
+    "children": [
+      {
+        "id": "10cf8619f588bef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "828cc3aa77e36623",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad65cc3aca1fde1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94f113867572fdc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dafe3fdc0d9b89ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e29cf9fbc92d3ad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "125cc8b352a74d1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Протокол/Ruavp/Общая информация/Command ID.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Command ID"
+            }
+          },
+          {
+            "id": "f18565070023548a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Протокол/Ruavp/Общая информация/Command ID.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Command ID"
+            }
+          },
+          {
+            "id": "319a5d308cadb935",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "974face1c8411b34",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3bcf160dd347465b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Протокол/Ruavp/Общая информация/Command ID.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Command ID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a91e3163f7a5e7b8",
+  "lastOpenFiles": [
+    "Протокол/Ruavp/Протокол RuAVP.md",
+    "Протокол/Ruavp/Структуры и типы/Батарея.md",
+    "Протокол/Ruavp/Структуры и типы/Модель БПЛА.md",
+    "Протокол/Ruavp/Общая информация/Подтверждение получения команд.md",
+    "Протокол/Ruavp/Общая информация/Command ID.md",
+    "Протокол/Ruavp/Общая информация/Обработка ошибок.md",
+    "Протокол/Ruavp/Общая информация/Модель памяти.md",
+    "Протокол/Ruavp/Общая информация/Контроль потока данных.md",
+    "Протокол/Ruavp/Общая информация/Адресация.md",
+    "Протокол/Ruavp/Общая информация/Session ID.md"
+  ]
+}
